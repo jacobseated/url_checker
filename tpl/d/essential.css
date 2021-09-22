@@ -1,0 +1,6 @@
+* {margin:0;padding:0;} h1,h2,h3,h4,p {padding:0 0 1rem 0;}
+body {font-size:1.2rem;}
+#dk_page_wrap {margin:3rem auto;max-width:1700px;min-width:300px;width:90%;justify-content:left;}
+
+#dk_page_content {width:70%;}
+#dk_page_side_box {width:28%;}
