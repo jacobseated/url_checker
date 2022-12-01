@@ -150,13 +150,7 @@ class router
 
     public function feature_create()
     {
-        /**
-       curl -X POST https://www.strava.com/api/v3/push_subscriptions \
-      -F client_id=5 \
-      -F client_secret=7b2946535949ae70f015d696d8ac602830ece412 \
-      -F 'callback_url=http://a-valid.com/url' \
-      -F 'verify_token=STRAVA'
-         */
+
     }
 
     public function handle_parameters($allowed_parameters, $post_or_get_parameters)
